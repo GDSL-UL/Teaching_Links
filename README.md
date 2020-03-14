@@ -45,4 +45,4 @@ Some useful guidance here about how to use Teams for remote learning: https://do
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton who have all supplied content for this list.... plus anyone I have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire who have all supplied content for this list.... plus anyone I have fogotten!
