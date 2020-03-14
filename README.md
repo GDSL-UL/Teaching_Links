@@ -24,3 +24,12 @@ This tutorial provides you with the basic skills to build your own geodemographi
 * URL: https://data.cdrc.ac.uk/dataset/creating-geodemographic-classification-using-k-means-clustering-r
 
 
+## Online Course Providers
+
+### Coursera
+Coursera are providing free access to impacted universities: https://blog.coursera.org/helping-universities-and-colleges-go-fully-online-in-response-to-the-coronavirus/ - There is a lot of [GIS](https://www.coursera.org/search?query=GIS&) content.
+
+
+
+
+
