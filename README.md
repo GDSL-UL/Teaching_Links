@@ -5,7 +5,7 @@ In this repo we aim to provide links to useful teaching resources for Geographic
 
 With the spread of COVID-19 and the ongoing international response efforts, it is looking like a lot of the academic community will be delivering teaching remotely and online. 
 
-We do not claim any of the resources are fully fledged online courses, or that these are comprehensive. But we either have written a lot of material within the Geographic Data Science Lab or know of other excellent resources which though might be helpful to the community to list and share.
+We do not claim any of the resources are fully fledged online courses, or that these are comprehensive. But we either have written a lot of material within the Geographic Data Science Lab or know of other excellent resources which we thought might be helpful to the community to list and share.
 
 
 ## Full Syllabus
