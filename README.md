@@ -9,9 +9,30 @@ We do not claim any of the resources are fully fledged online courses, or that t
 
 
 ## Full Syllabus
+
 ### Urban Analytics
 This provides 15 practicals in R with Slides - associated with (but independent from the [book](https://uk.sagepub.com/en-gb/eur/urban-analytics/book249267)) https://github.com/alexsingleton/urban_analytics ; topics include R, SQL, Descriptive Statistics, Charts and Graphs, Mapping Areas, Mapping Points, Web Mapping, Mapping Flows, Geodemographics, Indices, Spatial Relationships, Regression, Agent Based Models and Network Analysis.
 * URL: https://github.com/alexsingleton/urban_analytics
+
+### Geographic Data Science
+
+[![DOI](http://jose.theoj.org/papers/10.21105/jose.00042/status.svg)](https://doi.org/10.21105/jose.00042)
+
+Material and website for the course Geographic Data Science'19, taught
+at the University of Liverpool. The course was open to
+last year undergraduate and master students and uses Python.
+
+* [Website](http://darribas.org/gds19)
+* [Repository](https://github.com/darribas/gds19)
+* [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
+
+### Geographic Data Science with PySAL and the PyData, the book (WIP)
+
+This is an upcoming book being developed in the open to cover an introduction to Geographic Data Science using PySAL and the rest of the Python stack for data science.
+
+* [Launch blog post](https://geographicdata.science/2019/08/29/project-launch.html)
+* [Online book](https://geographicdata.science/book/intro)
+* [Repository](https://github.com/gdsbook/book)
 
 ### An Introduction to Spatial Data Analysis and Visualisation in R
 This tutorial series is designed to provide an accessible introduction to techniques for handling, analysing and visualising spatial data in R. 12 Practicals including basic descriptive statistics, making maps (or various sorts), Geographically Weighted Regression, point pattern analysis and some help with loops. 
@@ -45,4 +66,4 @@ Some useful guidance here about how to use Teams for remote learning: https://do
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire who have all supplied content for this list.... plus anyone I have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Dani Arribas-Bel who have all supplied content for this list.... plus anyone I have fogotten!
