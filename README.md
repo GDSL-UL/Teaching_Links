@@ -34,6 +34,12 @@ This is an upcoming book being developed in the open to cover an introduction to
 * [Online book](https://geographicdata.science/book/intro)
 * [Repository](https://github.com/gdsbook/book)
 
+### Spatial Data Analysis in R
+
+This is a book in progress used for the MSc-level course Spatial Analysis taught at the University of Liverpool, part of the MSc in Geographic Data Science programme.
+
+* [Spatial Analysis Notes](https://gdsl-ul.github.io/san/)
+
 ### An Introduction to Spatial Data Analysis and Visualisation in R
 This tutorial series is designed to provide an accessible introduction to techniques for handling, analysing and visualising spatial data in R. 12 Practicals including basic descriptive statistics, making maps (or various sorts), Geographically Weighted Regression, point pattern analysis and some help with loops. 
 * URL: https://data.cdrc.ac.uk/dataset/introduction-spatial-data-analysis-and-visualisation-r
@@ -66,4 +72,4 @@ Some useful guidance here about how to use Teams for remote learning: https://do
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Dani Arribas-Bel who have all supplied content for this list.... plus anyone I have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Francisco Rowe, Dani Arribas-Bel who have all supplied content for this list.... plus anyone I have fogotten!
