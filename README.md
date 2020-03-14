@@ -34,10 +34,13 @@ Lots of content is available here - https://github.com/kingsgeocomp ; but some h
 * https://github.com/kingsgeocomp/applied_gsa (Some advanced content including clustering; not a full course, but useful content)
 
 
-## Online Course Providers
+## Online Course / Tool Providers
 
 ### Coursera
 Coursera are providing free access to impacted universities: https://blog.coursera.org/helping-universities-and-colleges-go-fully-online-in-response-to-the-coronavirus/ - There is a lot of [GIS](https://www.coursera.org/search?query=GIS&) content.
+
+### Microsoft
+Some useful guidance here about how to use Teams for remote learning: https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu
 
 
 
