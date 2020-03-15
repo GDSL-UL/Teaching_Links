@@ -88,4 +88,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Francisco Rowe, Dani Arribas-Bel who have all supplied content for this list.... plus anyone I have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel who have all supplied content for this list.... plus anyone I have fogotten!
