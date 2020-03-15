@@ -69,6 +69,8 @@ Lots of content is available here - https://github.com/kingsgeocomp ; but some h
 * https://github.com/kingsgeocomp/spatial-analysis (Building on the above - some specific spatial content)
 * https://github.com/kingsgeocomp/applied_gsa (Some advanced content including clustering; not a full course, but useful content)
 
+### UCL Teaching Materials
+Here's a near full, and a bit unstructured, set of materials used to teach spatial data with R at UCL both to geographers and those enrolled on the Q-Step programme. https://jamescheshire.github.io/learningR/intro-to-r.html. Materials are taken from the CDRC tutorials too and the links to data may be broken due to a recent upgrade. Full data availabl here: https://dataviz.spatial.ly/worksheets/
 
 ## Other Bits...
 
