@@ -61,6 +61,11 @@ Lots of content is available here - https://github.com/kingsgeocomp ; but some h
 * https://github.com/kingsgeocomp/applied_gsa (Some advanced content including clustering; not a full course, but useful content)
 
 
+## Other Bits...
+
+This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
+* URL: https://gistbok.ucgis.org/
+
 ## Online Course / Tool Providers
 
 ### Coursera
@@ -69,6 +74,8 @@ Coursera are providing free access to impacted universities: https://blog.course
 ### Microsoft
 Some useful guidance here about how to use Teams for remote learning: https://docs.microsoft.com/en-us/MicrosoftTeams/remote-learning-edu
 
+### Carto
+Carto do a lot of great things with their platform - students and educators can free accounts here: https://carto.com/help/getting-started/student-accounts/ - also don't forget their new Kepler.gl [link](https://carto.com/blog/carto-and-kepler-integration/).
 
 
 ## Thanks...
