@@ -105,6 +105,27 @@ This repository contains the materials and instructions for the PySAL workshop t
 Given the current challenge of moving your GIS courses to a fully
 online environment, Joseph Kerski has put together these great materials: https://github.com/GDSL-UL/Teaching_Links/blob/master/ESRI_Links.md
 
+### 30 Days of R
+This comes from the Leeds Data Society (based in University of Leeds), plus lots of other useful resources
+
+* https://leedsdatascience.github.io/
+
+### Leeds Geocomputation
+A variety of materials have been put online from the University of Leeds including 
+
+Programming for Geographical Information Analysis
+* https://www.geog.leeds.ac.uk/courses/computing/study/core-python-odl2/ 
+
+A slightly older course on Programming in Java for Social Scientists
+* https://www.geog.leeds.ac.uk/courses/other/programming/summer-school/index.html 
+
+GIS, Geocomputation and Geoplanning - practicals in NetLogo (ABM)
+* https://www.geog.leeds.ac.uk/courses/level3/geog3150/home/home/index.php 
+
+Lots of additional resources free online can be found under each chapter for the ABM and GIS book by Crooks et al. - 
+https://www.abmgis.org 
+
+
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
@@ -123,4 +144,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Sergio Rey, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
