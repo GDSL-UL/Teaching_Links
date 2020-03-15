@@ -38,6 +38,10 @@ This is an upcoming book being developed in the open to cover an introduction to
 * [Online book](https://geographicdata.science/book/intro)
 * [Repository](https://github.com/gdsbook/book)
 
+### Geographical Analysis
+A set of video lectures from a course on Geographical Analysis delivered by Dr. Steven Farber at the University of Utah 
+* https://www.youtube.com/playlist?list=PLas_mS2V1XIRsJZ9yACVeg8cvZucNnhvI
+
 ### Geocomputation with R
 
 This book is for people who want to analyze, visualize and model geographic data with open source software. It is based on R, a statistical programming language that has powerful data processing, visualization and geospatial capabilities. The book is open source and has been used as the basis of many courses.
