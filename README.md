@@ -7,7 +7,6 @@ With the spread of COVID-19 and the ongoing international response efforts, it i
 
 We do not claim any of the resources are fully fledged online courses, or that these are comprehensive. But we either have written a lot of material within the Geographic Data Science Lab or know of other excellent resources which we thought might be helpful to the community to list and share.
 
-
 ## Full Syllabus
 
 ### Urban Analytics
@@ -25,6 +24,11 @@ last year undergraduate and master students and uses Python.
 * [Website](http://darribas.org/gds19)
 * [Repository](https://github.com/darribas/gds19)
 * [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
+
+### Geographic Information Systems and Science (CASA; CASA0005)
+All the practical instructions and data for the CASA, UCL module - Geographic Information Systems and Science.
+
+* https://andrewmaclachlan.github.io/CASA0005repo/
 
 ### Geographic Data Science with PySAL and the PyData, the book (WIP)
 
@@ -90,4 +94,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel who have all supplied content for this list.... plus anyone I have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Andrew Maclachlan who have all supplied content for this list.... plus anyone we have fogotten!
