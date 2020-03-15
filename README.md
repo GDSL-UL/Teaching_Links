@@ -76,6 +76,11 @@ Lots of content is available here - https://github.com/kingsgeocomp ; but some h
 ### UCL Teaching Materials
 Here's a near full, and a bit unstructured, set of materials used to teach spatial data with R at UCL both to geographers and those enrolled on the Q-Step programme. https://jamescheshire.github.io/learningR/intro-to-r.html. Materials are taken from the CDRC tutorials too and the links to data may be broken due to a recent upgrade. Full data availabl here: https://dataviz.spatial.ly/worksheets/
 
+### ESRI Learn
+This resource has over 200 lessons and paths (groups of lessons) on lotsof topics including some R / Data Science. In the gallery you can filter by product - e.g. Arcgis Pro, topic, etc.
+
+* http://learn.arcgis.com
+
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
@@ -94,4 +99,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Andrew Maclachlan who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Andrew Maclachlan who have all supplied content for this list.... plus anyone we have fogotten!
