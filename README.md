@@ -91,6 +91,11 @@ This resource has over 200 lessons and paths (groups of lessons) on lotsof topic
 
 * http://learn.arcgis.com
 
+### Spatial Data Science with PySAL @SciPy20
+This repository contains the materials and instructions for the PySAL workshop that was delivered at SciPy 2020.
+
+* https://github.com/knaaptime/pysal-scipy20
+
 ### Resources for Teaching with and about GIS Using Online Data, Tools, and Other Information
 
 Given the current challenge of moving your GIS courses to a fully
@@ -114,4 +119,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachlan who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Sergio Rey, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
