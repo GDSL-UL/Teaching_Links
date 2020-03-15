@@ -67,6 +67,10 @@ This is a book in progress used for the MSc-level course Spatial Analysis taught
 This tutorial series is designed to provide an accessible introduction to techniques for handling, analysing and visualising spatial data in R. 12 Practicals including basic descriptive statistics, making maps (or various sorts), Geographically Weighted Regression, point pattern analysis and some help with loops. 
 * URL: https://data.cdrc.ac.uk/dataset/introduction-spatial-data-analysis-and-visualisation-r
 
+### Spatial Data Science
+A set of online lectures alongside tutorials on Geoda and Spatial R from the Centre for Spatial Data Science at the University of Chicago
+* https://spatial.uchicago.edu/content/giscience-education
+
 ## Short Course / Practical Labs
 
 ### Creating a Geodemographic Classification Using K-means Clustering in R
@@ -119,4 +123,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Sergio Rey, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Sergio Rey, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
