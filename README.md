@@ -81,6 +81,11 @@ This resource has over 200 lessons and paths (groups of lessons) on lotsof topic
 
 * http://learn.arcgis.com
 
+### Resources for Teaching with and about GIS Using Online Data, Tools, and Other Information
+
+Given the current challenge of moving your GIS courses to a fully
+online environment, Joseph Kerski has put together these great materials: https://github.com/GDSL-UL/Teaching_Links/blob/master/ESRI_Links.md
+
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
