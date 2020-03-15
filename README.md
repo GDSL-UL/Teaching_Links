@@ -87,6 +87,12 @@ Lots of content is available here - https://github.com/kingsgeocomp ; but some h
 * https://github.com/kingsgeocomp/spatial-analysis (Building on the above - some specific spatial content)
 * https://github.com/kingsgeocomp/applied_gsa (Some advanced content including clustering; not a full course, but useful content)
 
+### Introduction to GIS
+These are some really nice resources from Monica Stephens for teaching very elementary GIS to students (first-year undergrads with little math/computer skills); including concepts without computers.
+
+* http://www.acsu.buffalo.edu/~mgstephe/panic/teaching.html
+
+
 ### UCL Teaching Materials
 Here's a near full, and a bit unstructured, set of materials used to teach spatial data with R at UCL both to geographers and those enrolled on the Q-Step programme. https://jamescheshire.github.io/learningR/intro-to-r.html. Materials are taken from the CDRC tutorials too and the links to data may be broken due to a recent upgrade. Full data availabl here: https://dataviz.spatial.ly/worksheets/
 
@@ -144,4 +150,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
