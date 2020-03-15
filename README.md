@@ -25,6 +25,12 @@ last year undergraduate and master students and uses Python.
 * [Repository](https://github.com/darribas/gds19)
 * [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
 
+### Open Education Resources Hosted by Penn State’s College of EMS
+
+OPEN.ED@PSU offers high-quality learning materials written by Penn State faculty. These materials are freely available for you to use, reuse, revise, remix, and redistribute under a creative commons license.
+
+* https://open.ems.psu.edu/courses
+
 ### Geographic Information Systems and Science (CASA; CASA0005)
 All the practical instructions and data for the CASA, UCL module - Geographic Information Systems and Science.
 
@@ -108,4 +114,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Andrew Maclachlan who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachlan who have all supplied content for this list.... plus anyone we have fogotten!
