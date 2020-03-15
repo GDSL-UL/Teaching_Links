@@ -34,6 +34,15 @@ This is an upcoming book being developed in the open to cover an introduction to
 * [Online book](https://geographicdata.science/book/intro)
 * [Repository](https://github.com/gdsbook/book)
 
+### Geocomputation with R
+
+This book is for people who want to analyze, visualize and model geographic data with open source software. It is based on R, a statistical programming language that has powerful data processing, visualization and geospatial capabilities. The book is open source and has been used as the basis of many courses.
+
+* [Geocomputation with R](https://geocompr.robinlovelace.net/) book website
+* [Binder](https://mybinder.org/v2/gh/robinlovelace/geocompr/master?urlpath=rstudio) link to get started with RStudio Server
+* [Source code](https://github.com/Robinlovelace/geocompr#geocomputation-with-r) 
+* [Guest book](https://geocompr.github.io/guestbook/)
+
 ### Spatial Data Analysis in R
 
 This is a book in progress used for the MSc-level course Spatial Analysis taught at the University of Liverpool, part of the MSc in Geographic Data Science programme.
