@@ -21,6 +21,7 @@ If you have anything that you think is useful then send us a tweet @geodatascien
 
 
 <a name="FS"/>
+
 ## Full Syllabus
 
 ### Urban Analytics
@@ -164,12 +165,14 @@ Lots of additional resources free online can be found under each chapter for the
 https://www.abmgis.org 
 
 <a name="Other"/>
+
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
 * URL: https://gistbok.ucgis.org/
 
 <a name="OC"/>
+
 ## Online Course / Tool Providers
 
 ### Coursera
