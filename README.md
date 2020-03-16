@@ -70,7 +70,22 @@ This is an upcoming book being developed in the open to cover an introduction to
 * [Online book](https://geographicdata.science/book/intro)
 * [Repository](https://github.com/gdsbook/book)
 
+### Geo-Python
+
+An introduction to programming in Python for geography and geology BSc/MSc students from the University of Helsinki. Introduced basic Python programming concepts (variables, data structures, loops, conditional statements, data analysis with Pandas, basic data visualization) assuming no prior coding experience. Also introduces use of git and GitHub.com, and has lecture videos available. Part of the forthcoming book *[Introduction to Python for Geographic Data Analysis](https://pythongis.org/)*.
+
+* [Course website](https://geo-python.github.io)
+* [Book website](https://pythongis.org/)
+
+### Automating GIS processes
+
+Teaches you how to do different GIS-related tasks in the Python programming language. Each lesson is a tutorial with specific topic(s) where the aim is to learn how to solve common GIS-related problems and tasks using Python tools. We are using only publicly available data which can be used and downloaded by anyone anywhere. We also provide a computing environment which allows you to instantly start programming and trying out the materials yourself, directly in your browser (no installations needed). Also part of the forthcoming book *[Introduction to Python for Geographic Data Analysis](https://pythongis.org/)*.
+
+* [Course website](https://autogis.github.io)
+* [Book website](https://pythongis.org/)
+
 ### Geographical Analysis
+
 A set of video lectures from a course on Geographical Analysis delivered by Dr. Steven Farber at the University of Utah 
 * https://www.youtube.com/playlist?list=PLas_mS2V1XIRsJZ9yACVeg8cvZucNnhvI
 
@@ -188,5 +203,11 @@ Carto do a lot of great things with their platform - students and educators can 
 ### Stuck with streaming and screen recording....?
 Alasdair Rae's Tweet is excellent - https://twitter.com/undertheraedar/status/1238735124524675072?s=20
 
+### Earth Data Science
+
+Open tutorials and course materials covering topics including data integration, GIS and data intensive science. Uses Python and/or R.
+
+* https://www.earthdatascience.org/
+
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp who have all supplied content for this list.... plus anyone we have forgotten!
