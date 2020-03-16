@@ -1,11 +1,13 @@
-# Teaching Links
+# The GDSL Big List of Teaching Links
 
 ## Introduction
-In this repo we aim to provide links to useful teaching resources for Geographic / Spatial Data Science, GIS and Statistics.
+In this repo we have aimed to provide links to useful teaching resources for teaching Geographic / Spatial Data Science, GIS and Statistics.
 
-With the spread of COVID-19 and the ongoing international response efforts, it is looking like a lot of the academic community will be delivering teaching remotely and online. 
+With the spread of COVID-19 and the ongoing international response efforts, it is looking like a lot of the academic community will be delivering teaching remotely and online. This might be a problem for some. As such, we have decided to create a living document containing useful teaching resources. Some of these are from the lab, and others are from people who we have reached out to while compiling this.
 
-We do not claim any of the resources are fully fledged online courses, or that these are comprehensive. But we either have written a lot of material within the Geographic Data Science Lab or know of other excellent resources which we thought might be helpful to the community to list and share.
+We do not claim that any of the resources are fully fledged online courses, or that these are a comprehensive list of what is out there but but we think these migth be helpful to the community to list and share.
+
+If you have anything that you think is useful then send us a tweet @geodatascience 
 
 ## Full Syllabus
 
@@ -13,7 +15,7 @@ We do not claim any of the resources are fully fledged online courses, or that t
 This provides 15 practicals in R with Slides - associated with (but independent from the [book](https://uk.sagepub.com/en-gb/eur/urban-analytics/book249267)) https://github.com/alexsingleton/urban_analytics ; topics include R, SQL, Descriptive Statistics, Charts and Graphs, Mapping Areas, Mapping Points, Web Mapping, Mapping Flows, Geodemographics, Indices, Spatial Relationships, Regression, Agent Based Models and Network Analysis.
 * URL: https://github.com/alexsingleton/urban_analytics
 
-### Geographic Data Science
+### Geographic Data Science (Python)
 
 [![DOI](http://jose.theoj.org/papers/10.21105/jose.00042/status.svg)](https://doi.org/10.21105/jose.00042)
 
@@ -25,6 +27,11 @@ last year undergraduate and master students and uses Python.
 * [Repository](https://github.com/darribas/gds19)
 * [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
 
+### GRANOLARR is a geogGRaphic dAta scieNce, reprOducibLe teAching resouRce in R
+
+This repository contains reproducible materials to teach geographic information and data science in R.
+* https://github.com/sdesabbata/granolarr
+
 ### Open Education Resources Hosted by Penn State’s College of EMS
 
 OPEN.ED@PSU offers high-quality learning materials written by Penn State faculty. These materials are freely available for you to use, reuse, revise, remix, and redistribute under a creative commons license.
@@ -35,6 +42,12 @@ OPEN.ED@PSU offers high-quality learning materials written by Penn State faculty
 All the practical instructions and data for the CASA, UCL module - Geographic Information Systems and Science.
 
 * https://andrewmaclachlan.github.io/CASA0005repo/
+
+### Spatial Analysis and Modelling
+
+This is a nice module written by David O' Sullivan with the objectives of 1) Articulate the theoretical and practical considerations in the application of spatial analysis methods and spatial modelling; 2) Prepare, manipulate, analyse, and display spatial data; 3) Apply existing tools to derive meaningful spatial models; 4) Identify and perform appropriate spatial analysis
+
+* https://github.com/DOSull/GISC-422
 
 ### Geographic Data Science with PySAL and the PyData, the book (WIP)
 
@@ -62,6 +75,12 @@ This book is for people who want to analyze, visualize and model geographic data
 This is a book in progress used for the MSc-level course Spatial Analysis taught at the University of Liverpool, part of the MSc in Geographic Data Science programme.
 
 * [Spatial Analysis Notes](https://gdsl-ul.github.io/san/)
+
+### Emerging Topics in GIScience: Geographical Computing
+
+Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
+
+* https://github.com/DOSull/GISC-425
 
 ### An Introduction to Spatial Data Analysis and Visualisation in R
 This tutorial series is designed to provide an accessible introduction to techniques for handling, analysing and visualising spatial data in R. 12 Practicals including basic descriptive statistics, making maps (or various sorts), Geographically Weighted Regression, point pattern analysis and some help with loops. 
@@ -150,4 +169,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
