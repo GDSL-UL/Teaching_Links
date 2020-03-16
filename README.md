@@ -5,7 +5,7 @@ In this repo we have aimed to provide links to useful teaching resources for tea
 
 With the spread of COVID-19 and the ongoing international response efforts, it is looking like a lot of the academic community will be delivering teaching remotely and online. This might be a problem for some. As such, we have decided to create a living document containing useful teaching resources. Some of these are from the lab, and others are from people who we have reached out to while compiling this.
 
-We do not claim that any of the resources are fully fledged online courses, or that these are a comprehensive list of what is out there but but we think these migth be helpful to the community to list and share.
+We do not claim that any of the resources are fully fledged on-line courses, or that these are a comprehensive list of what is out there but but we think these might be helpful to the community to list and share.
 
 If you have anything that you think is useful then send us a tweet @geodatascience 
 
@@ -97,7 +97,7 @@ This tutorial provides you with the basic skills to build your own geodemographi
 * URL: https://data.cdrc.ac.uk/dataset/creating-geodemographic-classification-using-k-means-clustering-r
 
 ### Kings College London Geocomputation
-Lots of content is available here - https://github.com/kingsgeocomp ; but some higlights include:
+Lots of content is available here - https://github.com/kingsgeocomp ; but some highlights include:
 
 * https://github.com/kingsgeocomp/code-camp (Introduction to Programming)
   * Some general help to install Anaconda and/or Docker: https://github.com/kingsgeocomp/gsa_env
@@ -113,7 +113,7 @@ These are some really nice resources from Monica Stephens for teaching very elem
 
 
 ### UCL Teaching Materials
-Here's a near full, and a bit unstructured, set of materials used to teach spatial data with R at UCL both to geographers and those enrolled on the Q-Step programme. https://jamescheshire.github.io/learningR/intro-to-r.html. Materials are taken from the CDRC tutorials too and the links to data may be broken due to a recent upgrade. Full data availabl here: https://dataviz.spatial.ly/worksheets/
+Here's a near full, and a bit unstructured, set of materials used to teach spatial data with R at UCL both to geographers and those enrolled on the Q-Step programme. https://jamescheshire.github.io/learningR/intro-to-r.html. Materials are taken from the CDRC tutorials too and the links to data may be broken due to a recent upgrade. Full data available here: https://dataviz.spatial.ly/worksheets/
 
 ### ESRI Learn
 This resource has over 200 lessons and paths (groups of lessons) on lotsof topics including some R / Data Science. In the gallery you can filter by product - e.g. Arcgis Pro, topic, etc.
@@ -169,4 +169,4 @@ Carto do a lot of great things with their platform - students and educators can 
 
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaapn who have all supplied content for this list.... plus anyone we have fogotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap who have all supplied content for this list.... plus anyone we have forgotten!
