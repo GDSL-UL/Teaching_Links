@@ -89,6 +89,11 @@ This is a book in progress used for the MSc-level course Spatial Analysis taught
 
 * [Spatial Analysis Notes](https://gdsl-ul.github.io/san/)
 
+### Data, Evidence, and Communication for the Public Good
+This course provides you with a toolkit for telling stories with urban data. It will introduce basic code, stats, and reasoning with evidence. The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then on to basic statistics, then hypotheses and the scientific method, and finally a critical assessment of smart cities and urban informatics.
+
+* https://github.com/gboeing/ppd534
+
 ### Emerging Topics in GIScience: Geographical Computing
 
 Recent years have seen the (re)emergence of programmatic approaches to geographical information science and the de-emphasis of established desktop 'GIS' packages, both in research settings and in the commercial world. This class introduces the Python programming language and the Python geospatial ecosystem to prepare students for conducting research in this new context.
@@ -198,4 +203,4 @@ Carto do a lot of great things with their platform - students and educators can 
 Alasdair Rae's Tweet is excellent - https://twitter.com/undertheraedar/status/1238735124524675072?s=20
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap, Kenneth Field who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap, Kenneth Field, Geoff Boeing who have all supplied content for this list.... plus anyone we have forgotten!
