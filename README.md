@@ -167,6 +167,8 @@ Some useful guidance here about how to use Teams for remote learning: https://do
 ### Carto
 Carto do a lot of great things with their platform - students and educators can free accounts here: https://carto.com/help/getting-started/student-accounts/ - also don't forget their new Kepler.gl [link](https://carto.com/blog/carto-and-kepler-integration/).
 
+### Stuck with streaming and screen recording....?
+Alasdair Rae's Tweet is excellent - https://twitter.com/undertheraedar/status/1238735124524675072?s=20
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap who have all supplied content for this list.... plus anyone we have forgotten!
