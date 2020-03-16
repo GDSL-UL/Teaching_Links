@@ -167,6 +167,15 @@ https://www.abmgis.org
 
 <a name="Other"/>
 
+### Esri Cartography MOOC
+A 6 week free online course in fundamental cartography. If you take the course 'live' you get access to exercises, data, videos, forums, software etc. Alternatively, you can download just the data and exercises, and see links to the videos from the download link. Resources cna be used in your own work and courses.
+
+Sign up to take the next course offering:
+* https://www.esri.com/training/catalog/596e584bb826875993ba4ebf/cartography./
+
+Go to the basic resource download:
+* https://carto.maps.arcgis.com/home/item.html?id=56dbe11c85084faa97de0844a770c8f7
+
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
@@ -189,4 +198,4 @@ Carto do a lot of great things with their platform - students and educators can 
 Alasdair Rae's Tweet is excellent - https://twitter.com/undertheraedar/status/1238735124524675072?s=20
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap, Kenneth Field who have all supplied content for this list.... plus anyone we have forgotten!
