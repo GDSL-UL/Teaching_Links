@@ -104,6 +104,7 @@ A set of online lectures alongside tutorials on Geoda and Spatial R from the Cen
 * https://spatial.uchicago.edu/content/giscience-education
 
 <a name="SC"/>
+
 ## Short Course / Practical Labs
 
 ### Creating a Geodemographic Classification Using K-means Clustering in R
