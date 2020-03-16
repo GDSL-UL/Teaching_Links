@@ -17,7 +17,7 @@ With the spread of COVID-19 and the ongoing international response efforts, it i
 
 We do not claim that any of the resources are fully fledged online courses, or that these are a comprehensive list of what is out there, but we think that these might be helpful to the community to list and share.
 
-If you have anything that you think is useful then send us a tweet @geodatascience 
+If you have anything that you think is useful then send us a tweet @geodatascience or issue a PR to this repository!
 
 
 <a name="FS"/>
