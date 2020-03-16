@@ -1,5 +1,13 @@
 # The GDSL Big List of Teaching Links
 
+## Table of Contents
+* [Introduction](#Introduction)
+* [Full Syllabus](#FS)
+* [Short Course / Practical Labs](#SC)
+* [Other Bits...](#Other)
+* [Online Course / Tool Providers](#OC)
+
+<a name="Introduction"/>
 ## Introduction
 In this repo we have aimed to provide links to useful teaching resources for teaching Geographic / Spatial Data Science, GIS and Statistics.
 
@@ -9,6 +17,8 @@ We do not claim that any of the resources are fully fledged online courses, or t
 
 If you have anything that you think is useful then send us a tweet @geodatascience 
 
+
+<a name="FS"/>
 ## Full Syllabus
 
 ### Urban Analytics
@@ -90,6 +100,7 @@ This tutorial series is designed to provide an accessible introduction to techni
 A set of online lectures alongside tutorials on Geoda and Spatial R from the Centre for Spatial Data Science at the University of Chicago
 * https://spatial.uchicago.edu/content/giscience-education
 
+<a name="SC"/>
 ## Short Course / Practical Labs
 
 ### Creating a Geodemographic Classification Using K-means Clustering in R
@@ -150,12 +161,13 @@ GIS, Geocomputation and Geoplanning - practicals in NetLogo (ABM)
 Lots of additional resources free online can be found under each chapter for the ABM and GIS book by Crooks et al. - 
 https://www.abmgis.org 
 
-
+<a name="Other"/>
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
 * URL: https://gistbok.ucgis.org/
 
+<a name="OC"/>
 ## Online Course / Tool Providers
 
 ### Coursera
