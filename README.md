@@ -146,6 +146,10 @@ These are some really nice resources from Monica Stephens for teaching very elem
 
 * http://www.acsu.buffalo.edu/~mgstephe/panic/teaching.html
 
+### University of Bristol Topics in Advanced Spatial Modelling
+This is a short course being taught over the next 2 weeks on advanced spatial modelling. The course is open for remote attendance by the links detailed in the website below: 
+
+* http://ljwolf.org/post/2020-sm2-lectures/
 
 ### UCL Teaching Materials
 Here's a near full, and a bit unstructured, set of materials used to teach spatial data with R at UCL both to geographers and those enrolled on the Q-Step programme. https://jamescheshire.github.io/learningR/intro-to-r.html. Materials are taken from the CDRC tutorials too and the links to data may be broken due to a recent upgrade. Full data available here: https://dataviz.spatial.ly/worksheets/
