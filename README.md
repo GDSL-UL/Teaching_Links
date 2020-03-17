@@ -123,6 +123,20 @@ This tutorial series is designed to provide an accessible introduction to techni
 A set of online lectures alongside tutorials on Geoda and Spatial R from the Centre for Spatial Data Science at the University of Chicago
 * https://spatial.uchicago.edu/content/giscience-education
 
+### Applied Spatial Data Analysis with R
+
+* Book code and data online at https://asdar-book.org
+
+* December 2019 ECS530 https://www.nhh.no/en/courses/analysing-spatial-data/ (Roger Bivand), course materials: https://github.com/rsbivand/ECS530_h19, slides: https://rsbivand.github.io/ECS530_h19/, videos: https://www.youtube.com/playlist?list=PLXUoTpMa_9s10NVk4dBQljNOaOXAOhcE0
+
+* September 2019 https://github.com/rsbivand/ectqg19-workshop R&Py Spatial Analysis Workshop: European Colloquium on Theoretical and Quantitative Geography (Dani Arribas and Roger Bivand)
+
+* August 2019 Workshop at GEOMED 2019, Glasgow (Roger Bivand): https://github.com/rsbivand/geomed19-workshop, slides: https://rsbivand.github.io/geomed19-workshop/
+
+### Opengeohub summer school 2019
+
+* https://www.youtube.com/playlist?list=PLXUoTpMa_9s1npXD6S9M0_2pUgnTd6cqV; https://opengeohub.org/summer_school_2019
+
 <a name="SC"/>
 
 ## Short Course / Practical Labs
