@@ -155,10 +155,16 @@ This resource has over 200 lessons and paths (groups of lessons) on lotsof topic
 
 * http://learn.arcgis.com
 
-### Spatial Data Science with PySAL @SciPy20
+### Spatial Data Science with PySAL
 This repository contains the materials and instructions for the PySAL workshop that was delivered at SciPy 2020.
 
 * https://github.com/knaaptime/pysal-scipy20
+
+### Past Scientific Python Conferences on Spatial Data Science
+Two past Scientific Python Conferences have been recorded and put on Youtube, alongside instructional materials for the course. These are approximately 3-hour long tutorials in how to do spatial data analysis in Python. 
+
+* SciPy 2019: https://www.youtube.com/watch?v=fc1f4MNLzdQ
+* SciPy 2018: https://www.youtube.com/watch?v=kJXUUO5M4ok
 
 ### Resources for Teaching with and about GIS Using Online Data, Tools, and Other Information
 
@@ -224,4 +230,4 @@ Open tutorials and course materials covering topics including data integration, 
 * https://www.earthdatascience.org/
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adnam Dennett, Anthony Robinson, Andrew Maclachla, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap,Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf who have all supplied content for this list.... plus anyone we have forgotten!
