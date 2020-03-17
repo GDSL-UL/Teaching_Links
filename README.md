@@ -160,6 +160,10 @@ These are some really nice resources from Monica Stephens for teaching very elem
 
 * http://www.acsu.buffalo.edu/~mgstephe/panic/teaching.html
 
+### Friendly Cities Lab Practicals
+Some practicals form the Friendly Cities Lab at Georgia Tech
+* https://github.com/friendlycities-gatech/SpatialNetworksLabs
+
 ### University of Bristol Topics in Advanced Spatial Modelling
 This is a short course being taught over the next 2 weeks on advanced spatial modelling. The course is open for remote attendance by the links detailed in the website below: 
 
@@ -223,7 +227,12 @@ Go to the basic resource download:
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
-* URL: https://gistbok.ucgis.org/
+* https://gistbok.ucgis.org/
+
+The University of Manchester has a spatial skills portal that features screencast tutorials on some of the common features of ArcMap and IDRISI and the new Urban Design Toolkit.
+
+* http://www.ppgis.manchester.ac.uk/skills/
+
 
 <a name="OC"/>
 
@@ -248,4 +257,4 @@ Open tutorials and course materials covering topics including data integration, 
 * https://www.earthdatascience.org/
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf who have all supplied content for this list.... plus anyone we have forgotten!
