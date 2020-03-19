@@ -160,6 +160,10 @@ These are some really nice resources from Monica Stephens for teaching very elem
 
 * http://www.acsu.buffalo.edu/~mgstephe/panic/teaching.html
 
+### Introduction to Spatial Data & Using R as a GIS
+An introduction to using R as a GIS, with no previous experience of coding or programming required. 
+* https://github.com/nickbearman/intro-r-spatial-analysis
+
 ### Friendly Cities Lab Practicals
 Some practicals form the Friendly Cities Lab at Georgia Tech
 * https://github.com/friendlycities-gatech/SpatialNetworksLabs
@@ -257,4 +261,4 @@ Open tutorials and course materials covering topics including data integration, 
 * https://www.earthdatascience.org/
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf, Nick Bearman who have all supplied content for this list.... plus anyone we have forgotten!
