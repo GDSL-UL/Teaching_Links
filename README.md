@@ -139,6 +139,11 @@ A set of online lectures alongside tutorials on Geoda and Spatial R from the Cen
 
 <a name="SC"/>
 
+### Urban Data Science
+
+Course materials, Jupyter notebooks, tutorials, guides, and demos for a Python-based urban data science course. 
+* https://github.com/gboeing/urban-data-science
+
 ## Short Course / Practical Labs
 
 ### Creating a Geodemographic Classification Using K-means Clustering in R
