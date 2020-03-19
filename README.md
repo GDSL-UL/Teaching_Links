@@ -160,6 +160,10 @@ These are some really nice resources from Monica Stephens for teaching very elem
 
 * http://www.acsu.buffalo.edu/~mgstephe/panic/teaching.html
 
+### Introduction to QGIS: Understanding and Presenting Spatial Data
+An introduction to QGIS and spatial data, no previous knowledge required 
+* https://github.com/nickbearman/intro-qgis-spatial-data
+
 ### Introduction to Spatial Data & Using R as a GIS
 An introduction to using R as a GIS, with no previous experience of coding or programming required. 
 * https://github.com/nickbearman/intro-r-spatial-analysis
