@@ -100,7 +100,7 @@ This book is for people who want to analyze, visualize and model geographic data
 
 ### Spatial Data Analysis in R
 
-This is a book in progress used for the MSc-level course Spatial Analysis taught at the University of Liverpool, part of the MSc in Geographic Data Science programme.
+This is a book in progress used for the MSc-level course Spatial Analysis taught at the University of Liverpool, part of the MSc in [Geographic Data Science programme](https://www.liverpool.ac.uk/geographic-data-science/study-with-us/).
 
 * [Spatial Analysis Notes](https://gdsl-ul.github.io/san/)
 
