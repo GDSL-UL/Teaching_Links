@@ -160,6 +160,10 @@ Lots of content is available here - https://github.com/kingsgeocomp ; but some h
 * https://github.com/kingsgeocomp/spatial-analysis (Building on the above - some specific spatial content)
 * https://github.com/kingsgeocomp/applied_gsa (Some advanced content including clustering; not a full course, but useful content)
 
+### Classifying Satellite Imagery in R
+A nice set of R materials for looking at satellite data...
+* https://urbanspatial.github.io/classifying_satellite_imagery_in_R/
+
 ### Introduction to GIS
 These are some really nice resources from Monica Stephens for teaching very elementary GIS to students (first-year undergrads with little math/computer skills); including concepts without computers.
 
@@ -237,6 +241,10 @@ Sign up to take the next course offering:
 Go to the basic resource download:
 * https://carto.maps.arcgis.com/home/item.html?id=56dbe11c85084faa97de0844a770c8f7
 
+## Videos...
+
+* Agent Based Models in Urban Systems: https://www.youtube.com/watch?v=DQihVrHiulY
+
 ## Other Bits...
 
 This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.
@@ -270,4 +278,4 @@ Open tutorials and course materials covering topics including data integration, 
 * https://www.earthdatascience.org/
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf, Nick Bearman who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Ken Steif, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf, Nick Bearman who have all supplied content for this list.... plus anyone we have forgotten!
