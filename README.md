@@ -123,6 +123,11 @@ This tutorial series is designed to provide an accessible introduction to techni
 A set of online lectures alongside tutorials on Geoda and Spatial R from the Centre for Spatial Data Science at the University of Chicago
 * https://spatial.uchicago.edu/content/giscience-education
 
+### Data Analysis & Visualization
+A nice intro course in Python....
+
+* https://github.com/walkerke/geog30323
+
 ### Applied Spatial Data Analysis with R
 
 * Book code and data online at https://asdar-book.org
@@ -278,4 +283,4 @@ Open tutorials and course materials covering topics including data integration, 
 * https://www.earthdatascience.org/
 
 ## Thanks...
-Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Ken Steif, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kenneth Field, Geoff Boeing, Levi Wolf, Nick Bearman who have all supplied content for this list.... plus anyone we have forgotten!
+Thanks to Jon Reades, Alex Singleton, Stephano De Sabbata, James Cheshire, Mike Gould, Steve Farber, Joseph Kerski, Robin Lovelace, Francisco Rowe, Dani Arribas-Bel, Adam Dennett, Anthony Robinson, Richard Kingston, Andrew Maclachlan, Alasdair Rae, Monica Stephens, Sergio Rey, Ed Manley, Alison Heppenstall, Ken Steif, Andrew Crooks, Luc Anselin, Marynia Kolak, Clio Andris, Angela Li, Kevin Credit, Roger Bivand, David O'Sulivan, Eli Knaap, Henrikki Tenkanen, David Whipp, Kyle Walker, Kenneth Field, Geoff Boeing, Levi Wolf, Nick Bearman who have all supplied content for this list.... plus anyone we have forgotten!
