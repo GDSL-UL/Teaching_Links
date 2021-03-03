@@ -36,8 +36,8 @@ Material and website for the course Geographic Data Science'19, taught
 at the University of Liverpool. The course was open to
 last year undergraduate and master students and uses Python.
 
-* [Website](http://darribas.org/gds19)
-* [Repository](https://github.com/darribas/gds19)
+* [Website](http://darribas.org/gds_course)
+* [Repository](https://github.com/darribas/gds_course)
 * [JOSE paper](http://jose.theoj.org/papers/ab5b87ff724fbdb2fda35a7301eecce9)
 
 ### GRANOLARR is a geogGRaphic dAta scieNce, reprOducibLe teAching resouRce in R
