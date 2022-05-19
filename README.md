@@ -24,6 +24,13 @@ We do not claim that any of the resources are fully fledged online courses, or t
 
 ## Full Syllabus
 
+### Geospatial Data Science (Python)
+Material for the course taught in spring 2022 at IT University of Copenhagen, to 1st year Master students in Data Science. 14 units, including lectures, exercises, tutorials. Covers spatial data analysis, human mobility, and spatial networks.
+
+* [Repository (lectures & admin)](https://github.com/mszell/geospatialdatascience)
+* [Repository (exercises & tutorials)](https://github.com/anerv/GDS2022_exercises)
+
+
 ### Urban Analytics
 This provides 15 practicals in R with Slides - associated with (but independent from the [book](https://uk.sagepub.com/en-gb/eur/urban-analytics/book249267)) https://github.com/alexsingleton/urban_analytics ; topics include R, SQL, Descriptive Statistics, Charts and Graphs, Mapping Areas, Mapping Points, Web Mapping, Mapping Flows, Geodemographics, Indices, Spatial Relationships, Regression, Agent Based Models and Network Analysis.
 * URL: https://github.com/alexsingleton/urban_analytics
@@ -150,6 +157,12 @@ Course materials, Jupyter notebooks, tutorials, guides, and demos for a Python-b
 * https://github.com/gboeing/urban-data-science
 
 ## Short Course / Practical Labs
+
+### Urban Data Science, First Year Project: Road collisions analysis
+Teaching material for a data science project, for 4-5 lectures, for first year Data Science students after they have learned the basics of programming and data science. Taught in spring 2021 at IT University of Copenhagen. Teaches exploring, transforming, analyzing, visualizing a real-world geospatial data set with Python and command line tools.
+
+* [Repository](https://github.com/mszell/fyp2021)
+
 
 ### Creating a Geodemographic Classification Using K-means Clustering in R
 This tutorial provides you with the basic skills to build your own geodemographic classification using R. 
